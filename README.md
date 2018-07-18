@@ -12,9 +12,13 @@ How to Run:
 How to play:
 
 -Use the arrow keys to move.
+
 -You may gain points by grabbing the gems.
+
 -You may gain one point and increas the level by going to the water.
+
 -You win when you reach level 10.
+
 -Once a you collides with an enemy, the game is reset and you move back to the start square.
 
 
