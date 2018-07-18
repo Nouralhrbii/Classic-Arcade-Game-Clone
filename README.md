@@ -1,4 +1,4 @@
-Classic Arcade Game Clone
+# Classic Arcade Game Clone
 
 Udacity Project 3: Front End Web Developer Nanodegree
 
