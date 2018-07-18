@@ -23,6 +23,7 @@ How to play:
 
 
 
+
 Dependency:
 Sweet Alert : https://unpkg.com/sweetalert/dist/sweetalert.min.js
 
