@@ -5,7 +5,7 @@
 
 ### How to Run: 
 
-* Open index.html with your browser.
+* Download and extract the zip file for this repo, and then open index.html with your browser.
 
 
 ### How to play:
