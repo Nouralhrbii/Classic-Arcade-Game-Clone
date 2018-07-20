@@ -16,6 +16,9 @@
 * You win when you reach level 10.
 * Once a you collides with an enemy, the game is reset and you move back to the start square.
 
+### Demo
+![demo](./images/demo.gif) 
+
 
 ### Dependency:
 * [Sweet Alert](https://unpkg.com/sweetalert/dist/sweetalert.min.js)
